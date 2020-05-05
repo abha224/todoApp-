@@ -1,2 +1,2 @@
-# todoApp-
-First app using React JS
+# Todo App
+Simple first app using React JS. 
